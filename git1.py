@@ -14,4 +14,8 @@ hi
 hy
 jjj
 lll
+<<<<<<< HEAD
 nnn
+=======
+mmm
+>>>>>>> fea1
